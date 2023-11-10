@@ -10,14 +10,14 @@
 
 <h1 align="center">Hi 👋, I'm Tharaka Gihan</h1>
 
-<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
+<h2 align="center">A Passionate Full Stack Developer from Sri Lanka</h2>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codergui001&label=Profile%20views&color=0e75b6&style=flat" alt="codergui001" /> </p>
 
-<h4 align="center">  🔭 I am currently undergoing Java training at ICET</h4>
-<h4 align="center">  🌱 I’m currently learning Java, Spring Boot, React, Angular</h4>
-<h4 align="center">  💬 Ask me about Java</h4>
+<h3 align="center">  🔭 I am currently undergoing Java training at ICET</h3>
+<h3 align="center">  🌱 I’m currently learning Java, Spring Boot, React, and Angular</h3>
+<h3 align="center">  💬 Ask me about Java</h3>
 
 
 <div align="center">
