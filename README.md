@@ -1,3 +1,4 @@
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Tharaka Gihan</h1>
 
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
@@ -5,13 +6,31 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codergui001&label=Profile%20views&color=0e75b6&style=flat" alt="codergui001" /> </p>
 
-- 🔭 I am currently **undergoing Java training at ICET**
+
+-  🔭 I am currently **undergoing Java training at ICET**
 
 - 🌱 I’m currently learning **Java, Spring Boot, React, Angular**
 
 - 💬 Ask me about **Java**
 
+
+
+<div align="center">
+<br>
+
+[![Tharaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=codergui001&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div> 
+
+<div align="center">
+<br>
+  
+[![Tharaka's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codergui001&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>   
+
 <h3 align="left">Connect with me:</h3>
+------
+
+
 <p align="left">
 <a href="https://linkedin.com/in/tharaka-gihan-dhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharaka-gihan-dhananjaya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codergui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codergui" height="30" width="40" /></a>
