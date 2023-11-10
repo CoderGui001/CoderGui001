@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharaka Gihan</h1>
 
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codergui001&label=Profile%20views&color=0e75b6&style=flat" alt="codergui001" /> </p>
 
