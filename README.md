@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharaka Gihan</h1>
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codergui001&label=Profile%20views&color=0e75b6&style=flat" alt="codergui001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codergui001&label=Profile%20views&color=0e75b6&style=flat" alt="codergui001" /> </p>
 
 - 🔭 I am currently **undergoing Java training at ICET**
 
