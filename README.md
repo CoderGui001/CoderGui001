@@ -1,4 +1,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=40&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;"></a>
+</p>
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px align="center"></picture> 
+</div>
+
 <h1 align="center">Hi 👋, I'm Tharaka Gihan</h1>
 
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
@@ -28,8 +35,6 @@
 </div>   
 
 <h3 align="left">Connect with me:</h3>
-------
-
 
 <p align="left">
 <a href="https://linkedin.com/in/tharaka-gihan-dhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharaka-gihan-dhananjaya" height="30" width="40" /></a>
